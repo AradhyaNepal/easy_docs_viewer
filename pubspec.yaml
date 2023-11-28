@@ -1,0 +1,33 @@
+name: easy_docs_viewer
+description: The idea to make this package came to support pptx or ppt in flutter. But it support others format too which are still on research phase.
+
+
+repository: https://github.com/AradhyaNepal/easy_docs_viewer/issues
+issue_tracker: https://github.com/AradhyaNepal/efficient_intrinsic_gridview/issues
+version: 0.0.1-unstable-release
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  webview_flutter: ^4.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
