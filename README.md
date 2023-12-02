@@ -7,7 +7,7 @@ Made thanks to webview_flutter and docs.google.com.
 ## Powerpoint pptx or ppt
 
 ```   
- import 'package:easy_docs_viewer/lib/easy_docs_viewer.dart';
+ import 'package:easy_docs_viewer/easy_docs_viewer.dart';
 import 'package:flutter/material.dart';
 
 class CustomPDFViewer extends StatelessWidget {
@@ -30,7 +30,7 @@ class CustomPDFViewer extends StatelessWidget {
 
 ## PDF
 ```   
- import 'package:easy_docs_viewer/lib/easy_docs_viewer.dart';
+ import 'package:easy_docs_viewer/easy_docs_viewer.dart';
 import 'package:flutter/material.dart';
 
 class CustomPPTViewer extends StatelessWidget {
@@ -54,7 +54,7 @@ class CustomPPTViewer extends StatelessWidget {
 ```
 ## Or any other file you wanna open (Still on research phase)
 ```   
- import 'package:easy_docs_viewer/lib/easy_docs_viewer.dart';
+ import 'package:easy_docs_viewer/easy_docs_viewer.dart';
 import 'package:flutter/material.dart';
 
 class CustomPPTViewer extends StatelessWidget {
